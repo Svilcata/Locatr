@@ -111,7 +111,7 @@ public class LocatrFragment extends Fragment {
             }
         });
     }
-    //
+
     private class SearchTask extends AsyncTask<Location, Void, Void> {
         private Bitmap mBitmap;
         private GalleryItem mGalleryItem;
